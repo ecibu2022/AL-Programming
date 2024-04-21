@@ -7,6 +7,7 @@ codeunit 51008 "Report Sub Codeunit"
     begin
         // check if report was already substituted or not
         if ReportId = Report::"Customer - Top 10 List" then
+        // This is the new report ID that is going to substitute original report
             NewReportId:=Report::"Report Substitution"
     end;
 }
