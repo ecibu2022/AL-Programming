@@ -57,7 +57,7 @@ actions
 
                 trigger OnAction()
                 begin
-
+                    
                 end;
             }
             action(Redo)
