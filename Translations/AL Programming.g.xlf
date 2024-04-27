@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AL Programming">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 1128039352 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New, Process, report, Home, Request Approval, Customer, category7, category8, category9, category10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Bar Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 1478634755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approves and posts the payment voucher.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action CancelApproval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 1478634755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action CancelApproval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 358684628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approves and posts the payment voucher.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action SendforApproval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 358684628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action SendforApproval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 992336821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverses the journal batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action Posts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 992336821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action Posts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1128039352 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Action Bar Page - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Pay Calculations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Control 3910317427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monthly Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Control MonthlyAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Control 2645184317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NetPay Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Control NetPayAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Control 311612763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Deductions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Control TaxDeductions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Action 1592581304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate your net pay based on the tax brackets.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Action Calculate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 852502485 - Action 1592581304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Net Pay</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculate Net Pay - Action Calculate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4164816885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Filter Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4164816885 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unit in which the item is held in inventory. The base unit of measure also serves as the conversion basis for alternate units of measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Filter Page - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4164816885 - Control 2685983588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Budgeted Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Filter Page - Control Budgeted Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4164816885 - Control 2044151849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the COGS (LCY) field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Filter Page - Control COGS (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4164816885 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the item should be included in the calculation of an invoice discount on documents where the item is traded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Filter Page - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multilingual Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's city.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's email address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 441134682 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the customer. The field is either filled automatically from a defined number series, or you enter the number manually because you have enabled manual number entry in the number-series setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multilingual Page - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Actions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 1478634755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approves and posts the payment voucher.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action CancelApproval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 1478634755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action CancelApproval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 358684628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approves and posts the payment voucher.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action SendforApproval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 358684628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action SendforApproval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize the document or journal by posting the amounts and quantities to the related accounts in your company books.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Post - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 1333595352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize and prepare to print the document or journal. The values and quantities are posted to the related accounts. A report request window where you can specify what to include on the print-out.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Post and &amp;Print - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 1333595352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and &amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Post and &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 4266201246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Review the different types of entries that will be created when you post the document or journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Preview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 4266201246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 3150094508 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a test report so that you can find and correct any errors before you perform the actual posting of the journal or document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Test Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 3150094508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Test Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 992336821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverses the journal batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Posts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 992336821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Posts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 311693179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print/Send</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Category_Category6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 2524661601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Category_Category8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2322409778 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page Actions - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2090073642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Code Uints</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Test Code Uints - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2090073642 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Test Code Uints - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Ports Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's address. This address will appear on all sales documents for the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's city.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3144403092 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the customer. The field is either filled automatically from a defined number series, or you enter the number manually because you have enabled manual number entry in the number-series setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Ports Page - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer - Top 10 List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType CurrReportPageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 1534827076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer - Top 10 List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType CustomerTop10ListCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 2859936932" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value must be a positive number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType NoOfRecordsToPrintErrMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 4204682224" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% of Total Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType PercentofTotalSalesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting customers    #1##########</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ranked according to %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales (LCY),Balance (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - NamedType 2463175554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - NamedType TotalSalesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 2130841768 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the chart type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control ChartType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 2130841768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chart Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control ChartType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 2130841768 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bar chart,Pie chart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control ChartType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 246488296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of customers that will be included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control NoOfRecordsToPrint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 246488296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control NoOfRecordsToPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 366713437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how the report will sort the customers: Sales, to sort by purchase volume; or Balance, to sort by balance. In either case, the customers with the largest amounts will be shown first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control Show - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 366713437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control Show - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1567192283 - Control 366713437 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales (LCY),Balance (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Substitution - Control Show - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3764390447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Port Object</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort XML Port Object - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

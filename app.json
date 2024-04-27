@@ -1,6 +1,6 @@
 {
   "id": "8e847d39-6e1d-4ac1-b40c-01f72e97a9be",
-  "name": "AL Images",
+  "name": "AL Programming",
   "publisher": "ASL.EcibuMichael",
   "version": "1.0.0.0",
   "brief": "",
@@ -27,6 +27,6 @@
   },
   "runtime": "12.0",
   "features": [
-    "NoImplicitWith"
-  ]
+    "NoImplicitWith", "TranslationFile"
+    ]
 }

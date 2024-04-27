@@ -4,7 +4,7 @@ report 5101 "Report Substitution"
     Caption = 'Customer - Top 10 List';
     UsageCategory = ReportsAndAnalysis;
     DefaultLayout = RDLC;
-    RDLCLayout = 'MyTop10CustomerList.rdl';
+    RDLCLayout = './xLayouts/MyTop10CustomerList.rdl';
     PreviewMode = PrintLayout;
     DataAccessIntent = ReadOnly;
 

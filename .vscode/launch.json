@@ -10,7 +10,7 @@
       "port": 7049,
       "serverInstance": "BC230",
       "authentication": "Windows",
-      "startupObjectId": 5148,
+      "startupObjectId": 5157,
       "startupObjectType": "Page",
       "breakOnError": "All",
       "launchBrowser": true,
@@ -21,4 +21,5 @@
       "schemaUpdateMode": "ForceSync"
     }
   ]
+  
 }
