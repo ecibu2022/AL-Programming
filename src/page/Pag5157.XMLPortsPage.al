@@ -40,10 +40,37 @@ page 5157 "XML Ports Page"
         action("XML Port")
         {
             ApplicationArea = All;
+            Promoted=true;
+            PromotedCategory=Process;
+            Image=ImportExcel;
             
             trigger OnAction()
             begin
                 Xmlport.Run(5101, false);
+            end;
+        }
+         action("Export To Excel")
+        {
+            ApplicationArea = All;
+            Promoted=true;
+            PromotedCategory=Process;
+            Image=ExportToExcel;
+            
+            trigger OnAction()
+            var
+            ExportXMLPort: XmlPort "XML Port Object";
+            FileName: Text;
+            TempBlob: Codeunit "Temp Blob";
+            InStr: InStream;
+            OutStr: OutStream;
+            begin
+                 FileName := 'Customers.xlsx';
+                        TempBlob.CreateOutStream(OutStr);
+                        ExportXMLPort.SetDestination(OutStr);
+                        ExportXMLPort.Export();
+
+                        TempBlob.CreateInStream(InStr);
+                        DownloadFromStream(InStr, 'Download XML Export', '', '', FileName);
             end;
         }
     }

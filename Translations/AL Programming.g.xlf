@@ -3,6 +3,16 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AL Programming">
     <body>
       <group id="body">
+        <trans-unit id="Report 288176952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Request Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Report Request Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1912965505 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Permission Set</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Test Permission Set - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1128039352 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
           <source>New, Process, report, Home, Request Approval, Customer, category7, category8, category9, category10</source>
           <note from="Developer" annotates="general" priority="2"></note>

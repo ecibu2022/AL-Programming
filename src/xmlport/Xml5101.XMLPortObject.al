@@ -2,11 +2,11 @@ xmlport 5101 "XML Port Object"
 {
     Caption = 'XML Port Object';
     // Allows us to do both import and export
-    // Direction=Both;
+    Direction=Both;
     // Specifies the format of data we are going to deal with
     Format=VariableText;
     // Request page allows us to present a user with a page to choose either to export or import options
-    // UseRequestPage=true;
+    UseRequestPage=false;
 
     schema
     {
