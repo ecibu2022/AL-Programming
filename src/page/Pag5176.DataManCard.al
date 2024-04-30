@@ -1,10 +1,11 @@
 namespace ALProgramming.ALProgramming;
+using Microsoft.Sales.Document;
 
 page 5176 "Data Man Card"
 {
     ApplicationArea = All;
     Caption = 'Data Man Card';
-    PageType = StandardDialog;
+    PageType = Card;
     SourceTable = "Data Manipulation";
     
     layout
@@ -41,6 +42,44 @@ page 5176 "Data Man Card"
         }
     }
 
-   
+    actions{
+        area(Processing){
+            action("Update Status")
+            {
+                ApplicationArea = All;
+                
+                trigger OnAction()
+                begin
+                    if DataMan.Get(Rec.ID) then begin
+                        case Rec.Status of
+                            Rec.Status::Open:
+                                DataMan.Status:=DataMan.Status::"Pending Approval";
+                            Rec.Status::"Pending Approval":
+                                DataMan.Status:=DataMan.Status::Open;    
+                        end;
+                        
+                        DataMan.Modify();
+                    end;
+                    
+                end;
+            }
+        action("Post G/L")
+        {
+            ApplicationArea = All;
+            Image=Post;
+            
+            trigger OnAction()
+            var
+            PostCU: Codeunit "Post Into GL";
+            begin
+                PostCU.PostToGL();
+            end;
+        }
+   }
+    }
+
+     var
+        DataMan: Record "Data Manipulation";
+
    
 }

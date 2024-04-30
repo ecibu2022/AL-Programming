@@ -45,7 +45,7 @@ page 5171 "Data Man Lists"
         }
     }
 
-     actions{
+    actions{
         area(Processing){
             action("Update Status")
             {
@@ -53,30 +53,24 @@ page 5171 "Data Man Lists"
                 
                 trigger OnAction()
                 begin
-                    DataMan.Reset();
-                    DataMan.SetRange(Status);
-                    case Rec.Status of
-                        DataMan.Status::Open:
-                        DataMan.Status:=DataMan.Status::"Pending Approval"; 
+                    if DataMan.Get(Rec.ID) then begin
+                        case Rec.Status of
+                            Rec.Status::Open:
+                                DataMan.Status:=DataMan.Status::"Pending Approval";
+                            Rec.Status::"Pending Approval":
+                                DataMan.Status:=DataMan.Status::Open;    
+                        end;
+                        
+                        DataMan.Modify();
                     end;
-                    DataMan.Modify();
+                    
                 end;
             }
-        action("Post G/L")
-        {
-            ApplicationArea = All;
-            Image=Post;
-            
-            trigger OnAction()
-            var
-            PostCU: Codeunit "Post Into GL";
-            begin
-                PostCU.PostToGL();
-            end;
-        }
-   }
     }
 
-     var
-        DataMan: Record "Data Manipulation";
+    }
+
+    var
+    DataMan: Record "Data Manipulation";
+
 }

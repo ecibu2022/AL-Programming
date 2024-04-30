@@ -83,6 +83,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Report Request Page - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Query 2566269340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query In AL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Query In AL - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PermissionSet 1912965505 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test Permission Set</source>
           <note from="Developer" annotates="general" priority="2"></note>

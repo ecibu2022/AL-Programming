@@ -10,11 +10,14 @@ codeunit 55102 "Post Into GL"
         GenLines."Posting Date":=WorkDate();
         GenLines."VAT Reporting Date":=WorkDate();
         GenLines."Document Type":=GenLines."Document Type"::" ";
+        GenLines.Validate("Document Type");
         GenLines."Document No.":='D002';
         GenLines.Description:='Test posting into G/L Account using AL Code';
         GenLines."Account Type":=GenLines."Account Type"::"G/L Account";
+        GenLines.Validate("Account Type");
         GenLines."Account No.":='1110';
         GenLines."Bal. Account Type":=GenLines."Bal. Account Type"::"G/L Account";
+        GenLines.Validate("Bal. Account Type");
         GenLines."Bal. Account No.":='2920';
         GenLines.Amount:=0.20;
 
