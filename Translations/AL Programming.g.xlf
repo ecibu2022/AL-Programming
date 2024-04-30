@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AL Programming">
     <body>
       <group id="body">
+        <trans-unit id="Codeunit 2353199641 - NamedType 3080618677" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting......#1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Post Into GL - NamedType Message</note>
+        </trans-unit>
         <trans-unit id="Page 1679634885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>APIs</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -13,6 +18,66 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIs - Control General - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 133051610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Man Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 133051610 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 133051610 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Email field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 133051610 - Control 3641927271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Control ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 133051610 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 133051610 - Control 1252283704 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Telephone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Card - Control Telephone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Man Lists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Email field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Control 3641927271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4218064093 - Control 1252283704 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Telephone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control Telephone - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Report 288176952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Report Request Page</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22,6 +87,41 @@
           <source>Test Permission Set</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Test Permission Set - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Manipulation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1390417961 - Field 1252283704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telephone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Data Manipulation - Field Telephone - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1128039352 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
           <source>New, Process, report, Home, Request Approval, Customer, category7, category8, category9, category10</source>
