@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AL Programming">
     <body>
       <group id="body">
+        <trans-unit id="Table 3255100646 - Field 1378896471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instrument Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Implement Interface - Field Instrument Type - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2353199641 - NamedType 3080618677" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posting......#1</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -78,15 +83,135 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Data Man Lists - Control Telephone - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1921250126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NavPage My Setup Wizard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 2632886192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user's email address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control Contact Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 3142631117 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a date past which the user will no longer be authorized to log on to the Windows client.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control Expiry Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 2981864456 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the full name of the user.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control Full Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 3673444989 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of license that applies to the user.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control License Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 269761521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the user can access companies in the current environment. This field does not reflect any changes in Microsoft 365 Accounts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control State - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921250126 - Control 129688762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the user. If the user must enter credentials when they sign in, this is the name they must enter.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching Tips Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an example of teachong tips in al. Helps users to know what the page is all about and what it does</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching Tips in AL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 3168444338 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control Address - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vendor's address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 3168444338 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control Address - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vendor's name. You can enter a maximum of 30 characters, both numbers and letters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 4200184881 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control No. - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the vendor. The field is either filled automatically from a defined number series, or you enter the number manually because you have enabled manual number entry in the number-series setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2084937409 - Control 4200184881 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source> The field is either filled automatically from a defined number series, or you enter the number manually because you have enabled manual number entry in the number-series setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control No. - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 2012353994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query Join Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Query Join Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1970251656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Query Report - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 288176952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Report Request Page</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Report Request Page - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Query 921956166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Joins In Queries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Joins In Queries - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Query 2566269340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Query In AL</source>
+          <source>Top 5 Customers Query In AL</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query Query In AL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1970251656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Query Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 24726016 - View 2638161971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Vendor View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Views In AL - View VendorView - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 1912965505 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test Permission Set</source>
