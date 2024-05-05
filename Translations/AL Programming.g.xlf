@@ -23,6 +23,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIs - Control General - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1437237347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control Add In</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Control Add In - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1437237347 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control Add Ins</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Control Add In - Control General - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 133051610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Data Man Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -137,11 +147,6 @@
           <source>Teaching Tips in AL</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2084937409 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>General</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Teaching Tips in AL - Control General - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2084937409 - Control 3168444338 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Address</source>
