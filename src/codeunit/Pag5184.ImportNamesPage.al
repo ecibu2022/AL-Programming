@@ -30,6 +30,14 @@ page 5184 "Import Names Page"
                 {
                     ToolTip = 'Specifies the value of the Email field.';
                 }
+                field("Sheet Name";Rec."Sheet Name")
+                {
+
+                }
+                field("File Name";Rec."File Name")
+                {
+                    
+                }
             }
         }
     }
@@ -51,6 +59,20 @@ page 5184 "Import Names Page"
                 begin
                     CallNames.ReadExcelSheet();
                     CallNames.ImportExcelData();
+                end;
+            }
+             action("Export to Excel")
+            {
+                ApplicationArea=All;
+                Image=ImportExcel;
+                Promoted=true;
+                PromotedCategory=Process;
+
+                trigger OnAction()
+                var
+                    CallNames: Codeunit "Import Excel Data";
+                begin
+                    CallNames.ExportToExcel(Rec);
                 end;
             }
         }

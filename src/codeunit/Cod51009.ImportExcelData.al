@@ -5,13 +5,13 @@ codeunit 51009 "Import Excel Data"
 {
    var
         BatchName: Code[10];
-        FileName: Text[100];
-        SheetName: Text[100];
+        FileName, SheetName: Text[100];
         TempExcelBuffer: Record "Excel Buffer" temporary;
         UploadExcelMsg: Label 'Please Choose the Excel file.';
         NoFileFoundMsg: Label 'No Excel file found!';
         BatchISBlankMsg: Label 'Batch name is blank';
         ExcelImportSucess: Label 'Excel is successfully imported.';
+        ExcelExportSuccess: Label 'Excel has been exported successfully';
 
     procedure ReadExcelSheet()
     var
@@ -34,10 +34,7 @@ codeunit 51009 "Import Excel Data"
     procedure ImportExcelData()
     var
         SOImportBuffer: Record "Import Names Table";
-        RowNo: Integer;
-        ColNo: Integer;
-        LineNo: Integer;
-        MaxRowNo: Integer;
+        RowNo, ColNo, LineNo, MaxRowNo: Integer;
     begin
         RowNo := 0;
         ColNo := 0;
@@ -73,5 +70,39 @@ codeunit 51009 "Import Excel Data"
             exit(TempExcelBuffer."Cell Value as Text")
         else
             exit('');
+    end;
+
+    // Export to Excel
+    procedure ExportToExcel(var ExpData: Record "Import Names Table")
+    var
+        TExcelBuffer: Record "Excel Buffer" temporary;
+    begin
+        TExcelBuffer.Reset();
+        TExcelBuffer.DeleteAll();
+        TExcelBuffer.NewRow();
+
+        TExcelBuffer.AddColumn(ExpData.FieldCaption(ID), false, '', false, false, false, '', TExcelBuffer."Cell Type"::Number);
+        TExcelBuffer.AddColumn(ExpData.FieldCaption(Name), false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+        TExcelBuffer.AddColumn(ExpData.FieldCaption(Email), false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+        TExcelBuffer.AddColumn(ExpData.FieldCaption("Sheet Name"), false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+        TExcelBuffer.AddColumn(ExpData.FieldCaption("File Name"), false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+
+        if ExpData.FindSet() then
+            repeat begin
+                TExcelBuffer.NewRow();
+
+                TExcelBuffer.AddColumn(ExpData.ID, false, '', false, false, false, '', TExcelBuffer."Cell Type"::Number);
+                TExcelBuffer.AddColumn(ExpData.Name, false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+                TExcelBuffer.AddColumn(ExpData.Email, false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+                TExcelBuffer.AddColumn(ExpData."Sheet Name", false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+                TExcelBuffer.AddColumn(ExpData."File Name", false, '', false, false, false, '', TExcelBuffer."Cell Type"::Text);
+            end until ExpData.Next()=0;
+
+            TExcelBuffer.CreateNewBook('Sheet Import Names');
+            TExcelBuffer.WriteSheet(SheetName, 'Cronus International ltd.', UserId);
+            TExcelBuffer.CloseBook();
+
+            TExcelBuffer.SetFriendlyFilename(StrSubstNo(FileName, CurrentDateTime, UserId));
+            TExcelBuffer.OpenExcel();
     end;
 }
