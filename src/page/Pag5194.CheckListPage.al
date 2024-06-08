@@ -5,7 +5,7 @@ codeunit 50188 MyCodeunit
 
     end;
 
-    [EventSubscriber(ObjectType::Codeunit, Codeunit::LogInManagement, 'OnAfterCompanyClose', '', true, true)]
+    [EventSubscriber(ObjectType::Page, Page::"Checklist Banner", 'OnOpenPageEvent', '', true, true)]
     local procedure CreateCheckList()
     var
         GuidedExperienceType: Enum "Guided Experience Type";

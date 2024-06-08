@@ -5,7 +5,9 @@ using System.Security.AccessControl;
 permissionset 5101 "Test Permission Set"
 {
     Assignable = true;
-    Caption = 'Test Permission Set', MaxLength = 30;
+    Caption = 'Test Permission Set', MaxLength = 30, Comment='This is for internal use';
+    IncludedPermissionSets=
+        "Vendor - Edit";
     ExcludedPermissionSets =
         "Customer - View",
         "Customer - Edit";

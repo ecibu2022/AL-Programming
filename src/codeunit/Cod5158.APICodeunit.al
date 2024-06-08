@@ -1,8 +1,11 @@
 namespace ALProgramming.ALProgramming;
+using System.Azure.Storage;
 
 codeunit 5158 "API Codeunit"
 {
-    
+    // Assign permissions to a table from a codeunit
+    Permissions=tabledata "ABS Container" = rimd;
+
     var
     Client: HttpClient;
     Response: HttpResponseMessage;

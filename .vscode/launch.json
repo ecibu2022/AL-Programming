@@ -10,7 +10,7 @@
       "port": 7249,
       "serverInstance": "DEMO",
       "authentication": "Windows",
-      "startupObjectId": 5185,
+      "startupObjectId": 50186,
       "startupObjectType": "Page",
       "breakOnError": "All",
       "launchBrowser": true,

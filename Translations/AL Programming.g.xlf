@@ -183,6 +183,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page NavPage My Setup Wizard - Control User Name - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 4236685463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Progress Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Progress Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4236685463 - NamedType 3080618677" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing........#1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Progress Dialog - NamedType Message</note>
+        </trans-unit>
+        <trans-unit id="Page 4236685463 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Progress Dialog - Control General - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1182041759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Set Up Page 1</source>
           <note from="Developer" annotates="general" priority="2"></note>

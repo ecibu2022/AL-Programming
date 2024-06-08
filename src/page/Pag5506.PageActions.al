@@ -185,7 +185,7 @@ actions
 
         }
 
-        // Shows frequntly used actions on the left side of the action bar
+        // Shows frequently used actions on the left side of the action bar
         area(Promoted)
         {
             group(Category_Process)

@@ -17,4 +17,13 @@ page 5193 "Set Up Page 1"
             }
         }
     }
+
+trigger OnAfterGetCurrRecord()
+                var
+                    myInt: Integer;
+                begin
+                    
+                end;
+    var
+    D: Action;
 }
